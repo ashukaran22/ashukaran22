@@ -22,6 +22,13 @@ Experienced in turning raw data into interactive, beautiful, and actionable dash
 - **Description:** Built a custom data reporting system and automated performance tracker for institutional records.
 - **Key Tools:** Power BI Desktop, Excel Data Imports, Data Modeling.
 
+---
+
+---
+
+### 📂 View My Work
+👉 **[Click Here to Open My Excel Portfolio PDF](./Excel%20Portfolioyo.pdf)**
+
 #### 📈 Advanced Financial & Operations Trackers
 - **Description:** Designed multiple high-level automated Excel sheets managing data cleaning pipelines and complex lookup structures.
 
