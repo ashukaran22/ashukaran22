@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋, I'm Ashu Karan!
+### Data Analyst & Advanced Excel Specialist | Power BI Developer
 
-<!--
-**ashukaran22/ashukaran22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experienced in turning raw data into interactive, beautiful, and actionable dashboards. Passionate about data cleaning, modeling, and automated reporting.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Tech Stack & Skills
+- **Data Visualization:** Power BI, Microsoft Excel (Dashboards, Pivot Tables)
+- **Data Management:** SQL Server, Advanced Excel Formulas (XLOOKUP, VLOOKUP, INDEX-MATCH)
+- **Core Knowledge:** Data Cleaning, Data Entry Automation, Report Formatting
+
+---
+
+### 🚀 Featured Projects
+
+#### 🛍️ Blinkit Professional Power BI Dashboard
+- **Description:** Developed a comprehensive interactive dashboard analyzing sales, performance, and customer trends for Blinkit.
+- **Key Features:** Created complex DAX measures, dynamic filters, and clean KPI cards to highlight hidden business insights.
+
+#### 🏫 Unitech Computer Institute Analytics Dashboard
+- **Description:** Built a custom data reporting system and automated performance tracker for institutional records.
+- **Key Tools:** Power BI Desktop, Excel Data Imports, Data Modeling.
+
+#### 📈 Advanced Financial & Operations Trackers
+- **Description:** Designed multiple high-level automated Excel sheets managing data cleaning pipelines and complex lookup structures.
+
+---
+
+### 📫 Connect with Me
+- **Email:** ashukaran22@gmail.com
+- **Platforms:** Active on Fiverr & LinkedIn for Data Analytics and Presentation projects.
+-
